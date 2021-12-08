@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFvQf9OFo03r7Y28YvQtnZopRDMto2bmQRSjUF/D8WRE4eIqqbP8fqSZHZR74hSJfX6kgVLA6E2SVMmC6+7JDg==",
+  "success": true,
+  "projectFilePath": "D:\\С#\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
